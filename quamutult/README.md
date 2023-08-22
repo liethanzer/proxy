@@ -2,4 +2,4 @@
 # 自用
 
 
-#### QuanmutultX <u>*https://github.com/liethanzer/proxy/raw/main/quamutult/QuanmutultX.conf*</u>
+#### QuanmutultX: <u>*https://github.com/liethanzer/proxy/raw/main/quamutult/QuanmutultX.conf*</u>
