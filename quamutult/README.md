@@ -2,4 +2,6 @@
 # 自用
 
 
-#### QuanmutultX: <u>*https://github.com/liethanzer/proxy/raw/main/quamutult/QuanmutultX.conf*</u>
+#### QuanmutultX: <button type="button" onclick="navigator.clipboard.writeText('https://github.com/liethanzer/proxy/raw/main/quamutult/QuanmutultX.conf')">
+    复制到剪贴板
+</button>
